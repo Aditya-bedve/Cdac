@@ -29,6 +29,6 @@ public class Q5HCF {
         }
 
         System.out.println("HCF of " + first + " and " + second + " is: " + hcf);
-        input.close();
+        
     }
 }
