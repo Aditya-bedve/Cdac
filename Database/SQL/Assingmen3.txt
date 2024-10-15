@@ -1,0 +1,8 @@
+Assingmen3
+
+1) Does ANSI Recognize data type date ?
+ans - Yes it recognizes the date data type. It is used to store date values in the format YYYY-MM-DD
+
+
+2) Which subdivision of SQL is used to insert values in tables ?
+ans - Data manipulation language dml subdivision is used to insert values into the table insert statement is part of dml

@@ -1,0 +1,16 @@
+Assingment2
+
+Q1) Which field of the Customers table is the primary key?
+ans - The primary key in the Customers table is the column that uniquely identifies each record. It ensures no two rows have the same value in that column
+
+2) What is the column of the Customers table?
+ans - Rating int(4)
+
+
+3) What is another word for row? For column?
+ans - Row also known as tupple, entity
+      Column also known as attribute, key
+
+
+4) Why isn’t it possible to see the first five rows of a table?
+ans - because in tables rows inserted randomly not in sorted order
