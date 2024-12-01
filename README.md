@@ -1,2 +1,2 @@
 # Cdac
-Author - Aditya Bedve (cdac)
+Author - Aditya Bedve
